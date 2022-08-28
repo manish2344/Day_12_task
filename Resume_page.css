@@ -1,0 +1,54 @@
+body {
+    font-size: 18px;
+}
+
+img {
+    width: 220px;
+    border-radius: 50%;
+    margin: 20px;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: yellow;
+}
+
+.main {
+    text-align: center;
+}
+
+input[type=range] {
+    /* // -webkit-appearance: none; */
+    /* margin: 10px 0;
+    width: 100%; */
+    color: yellow;
+}
+
+.detaile {
+    text-align: center;
+}
+
+.tech {
+    text-align: center;
+}
+
+.workdata {
+    float: right;
+}
+
+.name {
+    position: absolute;
+    left: 24%;
+    top: 28%;
+    width: 50%;
+    background: yellow;
+    border-radius: 20px;
+    text-align: center;
+    padding: 28px;
+}
+
+.oneside {
+    border-right: 2px solid black;
+}
+
+.round3 {
+    border-top: 2px solid black;
+}
